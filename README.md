@@ -3,7 +3,7 @@
   <a href="https://github.com/bencevans/node-sonos"><img src="https://cdn.rawgit.com/bencevans/node-sonos/0f2775ab/logo.svg" alt="node-sonos logo" width="200"></a>
   <br>
   <br/>
-  node-sonos
+  node-sonos (FORK)
   <br>
   <br>
 </h1>
